@@ -5,7 +5,7 @@
 
 - Cardápio do RU
 
-Diretamente do RU ou COAE?
+´Diretamente do RU ou COAE?´
 
 - Horários do RU	
 
