@@ -17,8 +17,10 @@
 - Horários do Circular
 - Trajeto do Circular	Circular	
 - Horários de Transporte Alternativo na Rodoviária
--	Horários de Ônibus Intermunicipal	Rodoviária	
--	Telefone de Mototáxi	Mototáxi	
+-	Horários de Ônibus Intermunicipal
+> Rodoviária	
+-	Telefone de Mototáxi
+> Mototáxi	
 
 ## Acadêmico
 - Datas de TCC
